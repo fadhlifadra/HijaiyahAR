@@ -5,6 +5,7 @@ ScriptsOnlyBuild:
     - caramain
     - maingame
     - mainmenu
+    - playgame_control
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -51,11 +52,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9940}
     - Class: 114
-      Script: {instanceID: 10320}
+      Script: {instanceID: 10322}
     - Class: 114
-      Script: {instanceID: 10404}
+      Script: {instanceID: 10406}
     - Class: 114
-      Script: {instanceID: 10786}
+      Script: {instanceID: 10788}
     - Class: 114
       Script: {instanceID: 10974}
     - Class: 114
@@ -104,11 +105,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9940}
     - Class: 114
-      Script: {instanceID: 10320}
+      Script: {instanceID: 10322}
     - Class: 114
-      Script: {instanceID: 10404}
+      Script: {instanceID: 10406}
     - Class: 114
-      Script: {instanceID: 10786}
+      Script: {instanceID: 10788}
     - Class: 114
       Script: {instanceID: 10974}
     - Class: 114
@@ -155,9 +156,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9940}
     - Class: 114
-      Script: {instanceID: 10404}
+      Script: {instanceID: 10406}
     - Class: 114
-      Script: {instanceID: 10552}
+      Script: {instanceID: 10554}
     - Class: 114
       Script: {instanceID: 10974}
     - Class: 114
@@ -197,6 +198,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -206,17 +209,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9940}
     - Class: 114
-      Script: {instanceID: 10090}
+      Script: {instanceID: 9960}
     - Class: 114
-      Script: {instanceID: 10180}
+      Script: {instanceID: 10092}
     - Class: 114
-      Script: {instanceID: 10206}
+      Script: {instanceID: 10182}
     - Class: 114
-      Script: {instanceID: 10214}
+      Script: {instanceID: 10208}
     - Class: 114
-      Script: {instanceID: 10300}
+      Script: {instanceID: 10216}
     - Class: 114
-      Script: {instanceID: 10404}
+      Script: {instanceID: 10302}
+    - Class: 114
+      Script: {instanceID: 10406}
+    - Class: 114
+      Script: {instanceID: 10974}
     - Class: 114
       Script: {instanceID: 11160}
     - Class: 114
@@ -332,6 +339,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
     className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: bfa760e65dd16a5eaed88a8ee57861ca
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: playgame_control
   - hash:
       serializedVersion: 2
       Hash: 234235b9fb07320d11497e08a726cc56

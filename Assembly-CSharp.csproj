@@ -59,6 +59,7 @@
      <Compile Include="Assets\Script\caramain.cs" />
      <Compile Include="Assets\Script\maingame.cs" />
      <Compile Include="Assets\Script\mainmenu.cs" />
+     <Compile Include="Assets\Script\menu_control.cs" />
      <Compile Include="Assets\Script\playgame_control.cs" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
  <Reference Include="Unity.Timeline.Editor">
