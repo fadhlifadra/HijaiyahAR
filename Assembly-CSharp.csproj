@@ -61,7 +61,9 @@
      <Compile Include="Assets\Script\mainmenu.cs" />
      <Compile Include="Assets\Script\menu_control.cs" />
      <Compile Include="Assets\Script\playgame_control.cs" />
+     <Compile Include="Assets\Script\splashscreen.cs" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
+     <None Include="Assets\StreamingAssets\Vuforia\HijaiyahAR.xml" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Fadhli Hisyam/Documents/GitHub/HijaiyahAR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
@@ -267,7 +269,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions">
- <HintPath>C:/Users/Fadhli Hisyam/Documents/GitHub/HijaiyahAR/Library/PackageCache/com.ptc.vuforia.engine@9.0.12/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+ <HintPath>C:/Users/Fadhli Hisyam/Documents/GitHub/HijaiyahAR/Library/PackageCache/com.ptc.vuforia.engine@9.1.7/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

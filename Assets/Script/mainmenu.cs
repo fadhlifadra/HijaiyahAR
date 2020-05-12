@@ -6,7 +6,7 @@ public class mainmenu : MonoBehaviour
 {
     public void GoMain()
     {
-        Application.LoadLevel("PlayGame");
+        Application.LoadLevel("alif");
     }
 
     public void GoAbout()

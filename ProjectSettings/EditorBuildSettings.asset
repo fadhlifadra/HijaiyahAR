@@ -6,15 +6,105 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
     path: Assets/Scenes/MenuUtama.unity
     guid: 774661d91c12bb74684f35cad972b8aa
+  - enabled: 1
+    path: Assets/Scenes/CaraBermain.unity
+    guid: 859d632eb240d4a4d9e0938a51c97e92
   - enabled: 1
     path: Assets/Scenes/AboutUs.unity
     guid: 3e01a410795a51346b834ada51aefcee
   - enabled: 1
-    path: Assets/Scenes/PlayGame.unity
-    guid: e11f360b4f17e1a4cb1ca2bda68fc978
+    path: Assets/Scenes/PlayGame/alif.unity
+    guid: 1dbcf86662264a849b9362d68062f2ca
   - enabled: 1
-    path: Assets/Scenes/CaraBermain.unity
-    guid: 859d632eb240d4a4d9e0938a51c97e92
+    path: Assets/Scenes/PlayGame/ba.unity
+    guid: 8a17d6289b35b2d4fb3197c05e300354
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/ta.unity
+    guid: 858f2f68e88c50a408e9c23989adbb61
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/tsa.unity
+    guid: 753598e6c1a040b47aa5ef1d49ab2b6e
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/jim.unity
+    guid: 65e94a01443e4804b85084a1e73ce90f
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/kha.unity
+    guid: 63389f28c378f3941b4d2a49ab4c5acd
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/kho.unity
+    guid: 1f10ca751e8130744b8859a46cb25055
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/dal.unity
+    guid: 53d133773691f6e4295a7dc2fa082984
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/dzal.unity
+    guid: cc774a8ae01a00a44a646ca021eba620
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/ra.unity
+    guid: 2bf2b6c4c7524374283d8be5803eeb2c
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/ain.unity
+    guid: 667cfcd99b671a7459be05e054d6b3ee
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/dha.unity
+    guid: 8fdb8647aabcf694a86c6ac35d9095ea
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/dhad.unity
+    guid: 30670ee20259af3498833ab1ca16f6ba
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/fa.unity
+    guid: 8350745d9f09df347a9d347a75370a73
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/ghain.unity
+    guid: bb95dc5bbc04fef40a4ca5353effaee7
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/ha.unity
+    guid: 846b5dfff5d2ada44b41fbfb69273768
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/hamzah.unity
+    guid: 42981a644275e6343bb55093909f5ff5
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/kaf.unity
+    guid: 06172aef612a10c47af1f9c788e85c31
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/lam.unity
+    guid: df573346f84fd1448beb712783b6ab2d
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/lamalif.unity
+    guid: 268d9cddefc745e4c8a8eff6ef014acc
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/mim.unity
+    guid: 34016bb702990d8489229212e5a53cf8
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/nun.unity
+    guid: ace22a0a63d9ce1499a9b702f75bb2bf
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/qaf.unity
+    guid: 508cf03ceea92514388263ca5d29aea4
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/shad.unity
+    guid: 62e1bf80f88f3cb4c86030103864c669
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/sin.unity
+    guid: 6745526a4fd094844ad8e20e938c37ea
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/syin.unity
+    guid: c6e7d1126efa5384090209bccdd8aa9c
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/tha.unity
+    guid: 85eb7c87477cf8d4e9eb072e56ecfba5
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/wau.unity
+    guid: 8ec96b217ad055c4ebd54795b7600d8f
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/ya.unity
+    guid: c2b7c33272e401343852ae90d6eeb394
+  - enabled: 1
+    path: Assets/Scenes/PlayGame/za.unity
+    guid: fcec509f56f339747992d723939e7f0e
   m_configObjects: {}
